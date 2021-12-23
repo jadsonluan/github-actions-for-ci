@@ -1,3 +1,3 @@
-# Tic Tac Toe Game
+# CI
 
 Learn GitHub Actions through a fun little game.
